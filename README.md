@@ -10,4 +10,14 @@ Two terminal commands are installed:
 
 **twpym** for starting the **twpy** TiddlyWiki Manager. **--verbose** is an option. You can open TiddlyWiki files in the Editor from the Manager.
 
-**twpye** for starting the **twpy** TiddlyWiki Editor. Requires **--file your-tiddly-wiki-path.html** option. **--verbose** is also an option. 
+**twpye** for starting the **twpy** TiddlyWiki Editor. Requires **--file your-tiddly-wiki-path.html** argument. **--verbose** is also an option. 
+
+
+**TiddlyWiki Manager**
+
+![](https://raw.githubusercontent.com/rzel/twpy/main/twpy-screenshot-2022-10-17--22-49-32.png)
+
+**TiddlyWiki Editor**
+
+![](https://raw.githubusercontent.com/rzel/twpy/main/twpy-screenshot-2022-10-17--22-50-38.png)
+
