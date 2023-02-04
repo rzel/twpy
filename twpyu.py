@@ -1,5 +1,5 @@
 
-# Copyright: TWPY, License: BSD-3-Clause
+# Copyright: The TWPY Organization, License: BSD-3-Clause
 
 import webview
 # from threading import Thread
