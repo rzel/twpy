@@ -1,5 +1,5 @@
 
-# Copyright: Rob Zel, License: BSD-3-Clause
+# Copyright: The TWPY Organization, License: BSD-3-Clause
 
 import webview
 import time # from time import sleep
