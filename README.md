@@ -2,7 +2,7 @@
 
 **twpy** was designed to be the *best* desktop GUI client for editing and managing **TiddlyWiki** files - simple, powerful, elegant, efficient.
 
-Installation is as simple as: 
+Installation is as simple as:
 
 `pip install tiddlywiki`
 
